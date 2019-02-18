@@ -1,5 +1,1 @@
-find top-10 words from 2-gram index file dataset. The original paper suggests to use unigrams with 2-grams to find it, I replaced it to edit-distance, because it is much easier to compute and still has very high correlation with what was used in the paper. Also the Top takes into accaunt the length of the word, e.g. the closer to original - better.
-
-From that top take each word and check the probability of occurence of that word in the context of previous words based on dataset of 3-grams.
-
-To check the work write your text into the input.txt file. The result will be in the output.txt.
+Hello Albina Khusainova I am text with few errors and wish to take a piece of forld
